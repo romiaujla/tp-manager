@@ -1,0 +1,19 @@
+{
+  "name": "tp-manager",
+  "version": "1.0.0",
+  "description": "Transportation Manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romiaujla/tp-manager.git"
+  },
+  "author": "Raman Aujla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/romiaujla/tp-manager/issues"
+  },
+  "homepage": "https://github.com/romiaujla/tp-manager#readme"
+}
